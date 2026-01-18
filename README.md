@@ -1,4 +1,4 @@
-# Supplementary Materials
+# Formal Security Analysis of SATP and Its Enhancement for Untrusted Gateways - Supplementary Materials
 
 This repository contains supplementary materials for the paper "Formal Security Analysis of SATP and Its Enhancement for Untrusted Gateways".
 
